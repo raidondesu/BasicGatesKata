@@ -11,9 +11,8 @@ namespace BasicGatesKata {
             Message(divider); 
 
             X(q);
-            DumpMachine();
             Message("Qubit in state 𝛼|1 ⟩+ 𝛽|0⟩");
-
+            DumpMachine();
             Reset(q);
         }
     }
