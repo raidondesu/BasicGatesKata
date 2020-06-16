@@ -59,4 +59,18 @@ namespace BasicGatesKata {
             Reset(q);
         }
     }
+
+    operation PhaseFlip () : Unit{
+        let divider = "--------------------------------------------------------------------------------------------------";
+        using(q = Qubit()){
+            Message("Qubit in state |𝜓⟩ = 𝛼|0⟩ + 𝛽|1⟩");
+            DumpMachine();
+            Message(divider);
+
+            S(q);
+            Message("Qubit in state |𝜓⟩ = 𝛼|0⟩ - i𝛽|1⟩");
+            DumpMachine();
+            Reset(q);
+        }
+    }
  }
