@@ -45,4 +45,18 @@ namespace BasicGatesKata {
             Reset(q);
         }
     }
+
+    operation AmplitudeChange () : Unit{
+        let divider = "--------------------------------------------------------------------------------------------------";
+        using(q = Qubit()){
+            Message("Qubit in state |𝜓⟩ = 𝛼|0⟩ + 𝛽|1⟩");
+            DumpMachine();
+            Message(divider);
+
+            Ry(1.0, q);
+            Message("Qubit in state |𝜓⟩ = cos 𝛼|0⟩ - sin𝛽|1⟩");
+            DumpMachine();
+            Reset(q);
+        }
+    }
  }
