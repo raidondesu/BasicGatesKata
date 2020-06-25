@@ -24,5 +24,16 @@
             Reset(qs[1]);
         }
     }
+
+    operation BellStateChange3 () : Unit{
+        using(qs = Qubit[2]){
+            H(qs[0]);
+            CNOT(qs[0], qs[1]);
+            X(qs[1]);
+            Z(qs[0]);
+            Reset(qs[0]);
+            Reset(qs[1]);
+        }
+    }
 }
 

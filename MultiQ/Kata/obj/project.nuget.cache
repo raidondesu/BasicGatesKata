@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cyTIrov7N3/mJQEMkRShG94kC1RKFYjyV9Vs84nDxfHRB/YaSz8PJrKO9sA5pwvZ/gTXYauho+oGgnva5qAnkQ==",
+  "dgSpecHash": "iG2uHxrqYSt76T4AmvEK6Wm/3aJ8yD1S+s4EfV1c/Ygo0YGeLb8ljeGHao9lRLMiRDykpR6o1KgIxiLwq08ScA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Reaper\\Desktop\\Quantum\\BasicGatesKata\\MultiQ\\Kata\\Kata.csproj",
+  "projectFilePath": "C:\\Users\\Reaper\\Desktop\\Quantum\\BasicGatesKata\\MultiQ\\Kata\\Kata.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Reaper\\.nuget\\packages\\fparsec\\1.0.3\\fparsec.1.0.3.nupkg.sha512",
     "C:\\Users\\Reaper\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512",

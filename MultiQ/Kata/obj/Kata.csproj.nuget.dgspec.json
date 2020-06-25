@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Reaper\\Desktop\\Quantum\\BasicGatesKata\\MultiQ\\Kata\\Kata.csproj": {}
+    "C:\\Users\\Reaper\\Desktop\\Quantum\\BasicGatesKata\\MultiQ\\Kata\\Kata.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Reaper\\Desktop\\Quantum\\BasicGatesKata\\MultiQ\\Kata\\Kata.csproj": {
+    "C:\\Users\\Reaper\\Desktop\\Quantum\\BasicGatesKata\\MultiQ\\Kata\\Kata.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Reaper\\Desktop\\Quantum\\BasicGatesKata\\MultiQ\\Kata\\Kata.csproj",
+        "projectUniqueName": "C:\\Users\\Reaper\\Desktop\\Quantum\\BasicGatesKata\\MultiQ\\Kata\\Kata.csproj",
         "projectName": "Kata",
-        "projectPath": "c:\\Users\\Reaper\\Desktop\\Quantum\\BasicGatesKata\\MultiQ\\Kata\\Kata.csproj",
+        "projectPath": "C:\\Users\\Reaper\\Desktop\\Quantum\\BasicGatesKata\\MultiQ\\Kata\\Kata.csproj",
         "packagesPath": "C:\\Users\\Reaper\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Reaper\\Desktop\\Quantum\\BasicGatesKata\\MultiQ\\Kata\\obj\\",
+        "outputPath": "C:\\Users\\Reaper\\Desktop\\Quantum\\BasicGatesKata\\MultiQ\\Kata\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Reaper\\AppData\\Roaming\\NuGet\\NuGet.Config"
