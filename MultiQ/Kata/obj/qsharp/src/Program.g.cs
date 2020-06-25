@@ -19,6 +19,12 @@ using Microsoft.Quantum.Simulation.Core;
 [assembly: SpecializationDeclaration("{\"Kind\":{\"Case\":\"QsBody\"},\"TypeArguments\":{\"Case\":\"Null\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}},\"Parent\":{\"Namespace\":\"Kata\",\"Name\":\"BellStateChange2\"},\"Attributes\":[],\"SourceFile\":\"C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs\",\"Position\":{\"Item1\":17,\"Item2\":4},\"HeaderRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":27}},\"Documentation\":[]}")]
 [assembly: CallableDeclaration("{\"Kind\":{\"Case\":\"Operation\"},\"QualifiedName\":{\"Namespace\":\"Kata\",\"Name\":\"BellStateChange3\"},\"Attributes\":[],\"Modifiers\":{\"Access\":{\"Case\":\"DefaultAccess\"}},\"SourceFile\":\"C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs\",\"Position\":{\"Item1\":27,\"Item2\":4},\"SymbolRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":27}},\"ArgumentTuple\":{\"Case\":\"QsTuple\",\"Fields\":[[]]},\"Signature\":{\"TypeParameters\":[],\"ArgumentType\":{\"Case\":\"UnitType\"},\"ReturnType\":{\"Case\":\"UnitType\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}}},\"Documentation\":[]}")]
 [assembly: SpecializationDeclaration("{\"Kind\":{\"Case\":\"QsBody\"},\"TypeArguments\":{\"Case\":\"Null\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}},\"Parent\":{\"Namespace\":\"Kata\",\"Name\":\"BellStateChange3\"},\"Attributes\":[],\"SourceFile\":\"C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs\",\"Position\":{\"Item1\":27,\"Item2\":4},\"HeaderRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":27}},\"Documentation\":[]}")]
+[assembly: CallableDeclaration("{\"Kind\":{\"Case\":\"Operation\"},\"QualifiedName\":{\"Namespace\":\"Kata\",\"Name\":\"TwoQubitGate1\"},\"Attributes\":[],\"Modifiers\":{\"Access\":{\"Case\":\"DefaultAccess\"}},\"SourceFile\":\"C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs\",\"Position\":{\"Item1\":38,\"Item2\":4},\"SymbolRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":24}},\"ArgumentTuple\":{\"Case\":\"QsTuple\",\"Fields\":[[]]},\"Signature\":{\"TypeParameters\":[],\"ArgumentType\":{\"Case\":\"UnitType\"},\"ReturnType\":{\"Case\":\"UnitType\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}}},\"Documentation\":[]}")]
+[assembly: SpecializationDeclaration("{\"Kind\":{\"Case\":\"QsBody\"},\"TypeArguments\":{\"Case\":\"Null\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}},\"Parent\":{\"Namespace\":\"Kata\",\"Name\":\"TwoQubitGate1\"},\"Attributes\":[],\"SourceFile\":\"C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs\",\"Position\":{\"Item1\":38,\"Item2\":4},\"HeaderRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":24}},\"Documentation\":[]}")]
+[assembly: CallableDeclaration("{\"Kind\":{\"Case\":\"Operation\"},\"QualifiedName\":{\"Namespace\":\"Kata\",\"Name\":\"TwoQubitGate2\"},\"Attributes\":[],\"Modifiers\":{\"Access\":{\"Case\":\"DefaultAccess\"}},\"SourceFile\":\"C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs\",\"Position\":{\"Item1\":47,\"Item2\":4},\"SymbolRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":24}},\"ArgumentTuple\":{\"Case\":\"QsTuple\",\"Fields\":[[]]},\"Signature\":{\"TypeParameters\":[],\"ArgumentType\":{\"Case\":\"UnitType\"},\"ReturnType\":{\"Case\":\"UnitType\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}}},\"Documentation\":[]}")]
+[assembly: SpecializationDeclaration("{\"Kind\":{\"Case\":\"QsBody\"},\"TypeArguments\":{\"Case\":\"Null\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}},\"Parent\":{\"Namespace\":\"Kata\",\"Name\":\"TwoQubitGate2\"},\"Attributes\":[],\"SourceFile\":\"C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs\",\"Position\":{\"Item1\":47,\"Item2\":4},\"HeaderRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":24}},\"Documentation\":[]}")]
+[assembly: CallableDeclaration("{\"Kind\":{\"Case\":\"Operation\"},\"QualifiedName\":{\"Namespace\":\"Kata\",\"Name\":\"TwoQubitGate3\"},\"Attributes\":[],\"Modifiers\":{\"Access\":{\"Case\":\"DefaultAccess\"}},\"SourceFile\":\"C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs\",\"Position\":{\"Item1\":56,\"Item2\":4},\"SymbolRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":24}},\"ArgumentTuple\":{\"Case\":\"QsTuple\",\"Fields\":[[]]},\"Signature\":{\"TypeParameters\":[],\"ArgumentType\":{\"Case\":\"UnitType\"},\"ReturnType\":{\"Case\":\"UnitType\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}}},\"Documentation\":[]}")]
+[assembly: SpecializationDeclaration("{\"Kind\":{\"Case\":\"QsBody\"},\"TypeArguments\":{\"Case\":\"Null\"},\"Information\":{\"Characteristics\":{\"Case\":\"EmptySet\"},\"InferredInformation\":{\"IsSelfAdjoint\":false,\"IsIntrinsic\":false}},\"Parent\":{\"Namespace\":\"Kata\",\"Name\":\"TwoQubitGate3\"},\"Attributes\":[],\"SourceFile\":\"C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs\",\"Position\":{\"Item1\":56,\"Item2\":4},\"HeaderRange\":{\"Item1\":{\"Line\":1,\"Column\":11},\"Item2\":{\"Line\":1,\"Column\":24}},\"Documentation\":[]}")]
 #line hidden
 namespace Kata
 {
@@ -235,7 +241,7 @@ namespace Kata
         }
     }
 
-    [SourceLocation("C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs", OperationFunctor.Body, 28, -1)]
+    [SourceLocation("C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs", OperationFunctor.Body, 28, 39)]
     public partial class BellStateChange3 : Operation<QVoid, QVoid>, ICallable
     {
         public BellStateChange3(IOperationFactory m) : base(m)
@@ -347,6 +353,297 @@ namespace Kata
         public static System.Threading.Tasks.Task<QVoid> Run(IOperationFactory __m__)
         {
             return __m__.Run<BellStateChange3, QVoid, QVoid>(QVoid.Instance);
+        }
+    }
+
+    [SourceLocation("C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs", OperationFunctor.Body, 39, 48)]
+    public partial class TwoQubitGate1 : Operation<QVoid, QVoid>, ICallable
+    {
+        public TwoQubitGate1(IOperationFactory m) : base(m)
+        {
+        }
+
+        String ICallable.Name => "TwoQubitGate1";
+        String ICallable.FullName => "Kata.TwoQubitGate1";
+        protected Allocate Allocate
+        {
+            get;
+            set;
+        }
+
+        protected Release Release
+        {
+            get;
+            set;
+        }
+
+        protected IUnitary<Qubit> MicrosoftQuantumIntrinsicX
+        {
+            get;
+            set;
+        }
+
+        protected IUnitary<Qubit> MicrosoftQuantumIntrinsicI
+        {
+            get;
+            set;
+        }
+
+        protected ICallable<Qubit, QVoid> MicrosoftQuantumIntrinsicReset
+        {
+            get;
+            set;
+        }
+
+        public override Func<QVoid, QVoid> Body => (__in__) =>
+        {
+#line hidden
+            {
+#line 40 "C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs"
+                var qs = Allocate.Apply(2L);
+#line hidden
+                bool __arg1__ = true;
+                try
+                {
+#line 41 "C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs"
+                    MicrosoftQuantumIntrinsicX.Apply(qs[1L]);
+#line 42 "C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs"
+                    MicrosoftQuantumIntrinsicI.Apply(qs[0L]);
+#line 43 "C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs"
+                    MicrosoftQuantumIntrinsicReset.Apply(qs[0L]);
+#line 44 "C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs"
+                    MicrosoftQuantumIntrinsicReset.Apply(qs[1L]);
+                }
+#line hidden
+                catch
+                {
+                    __arg1__ = false;
+                    throw;
+                }
+#line hidden
+                finally
+                {
+                    if (__arg1__)
+                    {
+#line hidden
+                        Release.Apply(qs);
+                    }
+                }
+            }
+
+#line hidden
+            return QVoid.Instance;
+        }
+
+        ;
+        public override void Init()
+        {
+            this.Allocate = this.Factory.Get<Allocate>(typeof(Microsoft.Quantum.Intrinsic.Allocate));
+            this.Release = this.Factory.Get<Release>(typeof(Microsoft.Quantum.Intrinsic.Release));
+            this.MicrosoftQuantumIntrinsicX = this.Factory.Get<IUnitary<Qubit>>(typeof(Microsoft.Quantum.Intrinsic.X));
+            this.MicrosoftQuantumIntrinsicI = this.Factory.Get<IUnitary<Qubit>>(typeof(Microsoft.Quantum.Intrinsic.I));
+            this.MicrosoftQuantumIntrinsicReset = this.Factory.Get<ICallable<Qubit, QVoid>>(typeof(Microsoft.Quantum.Intrinsic.Reset));
+        }
+
+        public override IApplyData __dataIn(QVoid data) => data;
+        public override IApplyData __dataOut(QVoid data) => data;
+        public static System.Threading.Tasks.Task<QVoid> Run(IOperationFactory __m__)
+        {
+            return __m__.Run<TwoQubitGate1, QVoid, QVoid>(QVoid.Instance);
+        }
+    }
+
+    [SourceLocation("C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs", OperationFunctor.Body, 48, 57)]
+    public partial class TwoQubitGate2 : Operation<QVoid, QVoid>, ICallable
+    {
+        public TwoQubitGate2(IOperationFactory m) : base(m)
+        {
+        }
+
+        String ICallable.Name => "TwoQubitGate2";
+        String ICallable.FullName => "Kata.TwoQubitGate2";
+        protected Allocate Allocate
+        {
+            get;
+            set;
+        }
+
+        protected Release Release
+        {
+            get;
+            set;
+        }
+
+        protected IUnitary<Qubit> MicrosoftQuantumIntrinsicH
+        {
+            get;
+            set;
+        }
+
+        protected IUnitary<Qubit> MicrosoftQuantumIntrinsicZ
+        {
+            get;
+            set;
+        }
+
+        protected ICallable<Qubit, QVoid> MicrosoftQuantumIntrinsicReset
+        {
+            get;
+            set;
+        }
+
+        public override Func<QVoid, QVoid> Body => (__in__) =>
+        {
+#line hidden
+            {
+#line 49 "C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs"
+                var qs = Allocate.Apply(2L);
+#line hidden
+                bool __arg1__ = true;
+                try
+                {
+#line 50 "C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs"
+                    MicrosoftQuantumIntrinsicH.Apply(qs[0L]);
+#line 51 "C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs"
+                    MicrosoftQuantumIntrinsicZ.Apply(qs[1L]);
+#line 52 "C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs"
+                    MicrosoftQuantumIntrinsicReset.Apply(qs[0L]);
+#line 53 "C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs"
+                    MicrosoftQuantumIntrinsicReset.Apply(qs[1L]);
+                }
+#line hidden
+                catch
+                {
+                    __arg1__ = false;
+                    throw;
+                }
+#line hidden
+                finally
+                {
+                    if (__arg1__)
+                    {
+#line hidden
+                        Release.Apply(qs);
+                    }
+                }
+            }
+
+#line hidden
+            return QVoid.Instance;
+        }
+
+        ;
+        public override void Init()
+        {
+            this.Allocate = this.Factory.Get<Allocate>(typeof(Microsoft.Quantum.Intrinsic.Allocate));
+            this.Release = this.Factory.Get<Release>(typeof(Microsoft.Quantum.Intrinsic.Release));
+            this.MicrosoftQuantumIntrinsicH = this.Factory.Get<IUnitary<Qubit>>(typeof(Microsoft.Quantum.Intrinsic.H));
+            this.MicrosoftQuantumIntrinsicZ = this.Factory.Get<IUnitary<Qubit>>(typeof(Microsoft.Quantum.Intrinsic.Z));
+            this.MicrosoftQuantumIntrinsicReset = this.Factory.Get<ICallable<Qubit, QVoid>>(typeof(Microsoft.Quantum.Intrinsic.Reset));
+        }
+
+        public override IApplyData __dataIn(QVoid data) => data;
+        public override IApplyData __dataOut(QVoid data) => data;
+        public static System.Threading.Tasks.Task<QVoid> Run(IOperationFactory __m__)
+        {
+            return __m__.Run<TwoQubitGate2, QVoid, QVoid>(QVoid.Instance);
+        }
+    }
+
+    [SourceLocation("C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs", OperationFunctor.Body, 57, -1)]
+    public partial class TwoQubitGate3 : Operation<QVoid, QVoid>, ICallable
+    {
+        public TwoQubitGate3(IOperationFactory m) : base(m)
+        {
+        }
+
+        String ICallable.Name => "TwoQubitGate3";
+        String ICallable.FullName => "Kata.TwoQubitGate3";
+        protected Allocate Allocate
+        {
+            get;
+            set;
+        }
+
+        protected Release Release
+        {
+            get;
+            set;
+        }
+
+        protected IUnitary<(Qubit,Qubit)> MicrosoftQuantumIntrinsicSWAP
+        {
+            get;
+            set;
+        }
+
+        protected ICallable MicrosoftQuantumDiagnosticsDumpMachine
+        {
+            get;
+            set;
+        }
+
+        protected ICallable<Qubit, QVoid> MicrosoftQuantumIntrinsicReset
+        {
+            get;
+            set;
+        }
+
+        public override Func<QVoid, QVoid> Body => (__in__) =>
+        {
+#line hidden
+            {
+#line 58 "C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs"
+                var qs = Allocate.Apply(2L);
+#line hidden
+                bool __arg1__ = true;
+                try
+                {
+#line 59 "C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs"
+                    MicrosoftQuantumIntrinsicSWAP.Apply((qs[0L], qs[1L]));
+#line 60 "C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs"
+                    MicrosoftQuantumDiagnosticsDumpMachine.Apply(QVoid.Instance);
+#line 61 "C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs"
+                    MicrosoftQuantumIntrinsicReset.Apply(qs[0L]);
+#line 62 "C:/Users/Reaper/Desktop/Quantum/BasicGatesKata/MultiQ/Kata/Program.qs"
+                    MicrosoftQuantumIntrinsicReset.Apply(qs[1L]);
+                }
+#line hidden
+                catch
+                {
+                    __arg1__ = false;
+                    throw;
+                }
+#line hidden
+                finally
+                {
+                    if (__arg1__)
+                    {
+#line hidden
+                        Release.Apply(qs);
+                    }
+                }
+            }
+
+#line hidden
+            return QVoid.Instance;
+        }
+
+        ;
+        public override void Init()
+        {
+            this.Allocate = this.Factory.Get<Allocate>(typeof(Microsoft.Quantum.Intrinsic.Allocate));
+            this.Release = this.Factory.Get<Release>(typeof(Microsoft.Quantum.Intrinsic.Release));
+            this.MicrosoftQuantumIntrinsicSWAP = this.Factory.Get<IUnitary<(Qubit,Qubit)>>(typeof(Microsoft.Quantum.Intrinsic.SWAP));
+            this.MicrosoftQuantumDiagnosticsDumpMachine = this.Factory.Get<ICallable>(typeof(Microsoft.Quantum.Diagnostics.DumpMachine<>));
+            this.MicrosoftQuantumIntrinsicReset = this.Factory.Get<ICallable<Qubit, QVoid>>(typeof(Microsoft.Quantum.Intrinsic.Reset));
+        }
+
+        public override IApplyData __dataIn(QVoid data) => data;
+        public override IApplyData __dataOut(QVoid data) => data;
+        public static System.Threading.Tasks.Task<QVoid> Run(IOperationFactory __m__)
+        {
+            return __m__.Run<TwoQubitGate3, QVoid, QVoid>(QVoid.Instance);
         }
     }
 }

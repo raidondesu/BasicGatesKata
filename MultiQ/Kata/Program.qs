@@ -35,5 +35,33 @@
             Reset(qs[1]);
         }
     }
+
+    operation TwoQubitGate1 () : Unit{
+        using(qs = Qubit[2]){
+            X(qs[1]);
+            I(qs[0]);
+            Reset(qs[0]);
+            Reset(qs[1]);
+        }
+    }
+
+    operation TwoQubitGate2 () : Unit{
+        using(qs = Qubit[2]){
+            H(qs[0]);
+            Z(qs[1]);
+            Reset(qs[0]);
+            Reset(qs[1]);
+        }
+    }
+
+    operation TwoQubitGate3 () : Unit{
+        using(qs = Qubit[2]){
+            SWAP(qs[0], qs[1]);
+            Reset(qs[0]);
+            Reset(qs[1]);
+        }
+    }
+
+
 }
 
