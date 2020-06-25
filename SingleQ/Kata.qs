@@ -100,7 +100,7 @@ namespace BasicGatesKata {
             DumpMachine();
 
             X(q);
-            Message("Qubit in state |𝜓⟩ = -𝛼|1⟩ + 𝛽|1⟩");
+            Message("Qubit in state |𝜓⟩ = -𝛼|1⟩ + 𝛽|0⟩");
             DumpMachine();
 
             Z(q);
