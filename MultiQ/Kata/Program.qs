@@ -62,6 +62,26 @@
         }
     }
 
+    operation ToffoliGate () : Unit {
+        using(qs = Qubit[3]) {
+            I(qs[0]);
+            CNOT(qs[1], qs[2]);
+            Reset(qs[0]);
+            Reset(qs[1]);
+            Reset(qs[2]);
+        }
+    }
+
+    operation Fredkin () : Unit {
+        using(qs = Qubit[3]) {
+            I(qs[0]);
+            SWAP(qs[1], qs[2]);
+            Reset(qs[0]);
+            Reset(qs[1]);
+            Reset(qs[2]);
+        }
+    }
+
 
 }
 
